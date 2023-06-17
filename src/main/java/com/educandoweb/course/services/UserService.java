@@ -29,9 +29,7 @@ public class UserService {
 	}
 	
 	public void delete(Long id) {
-		User obj = findById(id);
-		if (obj !=  null) {
-			repository.delete(obj);
-		}
+		repository.deleteById(id);
+		
 	}
 }
