@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-É uma aplicação back-end construída durante o curso da udemy, organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+É uma aplicação back-end construída durante o curso da udemy, organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
 A aplicação consiste em crud de cadastro de usuário, onde é possível salvar, atualizar, deletar, buscar usuário e listá-los.
 
